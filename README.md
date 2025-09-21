@@ -1,2 +1,3 @@
 # IPC-Json
-IPC - IndianPostalCode [  ]
+IPC - IndianPostalCode 
+[ country => state => district => village/city : postal_code  ]
